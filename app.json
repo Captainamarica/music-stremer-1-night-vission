@@ -1,5 +1,5 @@
 {
-    "name": "Video x Music Stream Bot",
+    "name": "Video Music Stream Bot",
     "description": "Telegram bot for Streaming Video & Music trought the Telegram Group Video Chat, powered by PyTgCalls and Pyrogram",
     "logo": "https://telegra.ph/file/1c41ded2dd871eb36bd7e.png",
     "keywords": [
@@ -12,7 +12,7 @@
         "pyrogram"
     ],
     "website": "https://t.me/levinachannel",
-    "repository": "https://github.com/levina-lab/video-stream",
+    "repository": "https://github.com/Captainamarica/music-stremer-1-night-vission",
     "success_url": "https://t.me/dlwrml",
     "env": {
         "API_ID": {
